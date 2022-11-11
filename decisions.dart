@@ -1,5 +1,6 @@
 int main()
 {
+    // if and else if
     int x = 5;
     int y = 1;
     if (x>y){
@@ -10,7 +11,7 @@ int main()
     }
     else{
         print("x is equal to y");
-    };
+    }
 
     return 0;
 }

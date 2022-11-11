@@ -33,5 +33,13 @@ void main()
         i++;
     }
 
+    int number = 0;
+    
+    do
+    {
+        number++;
+        print(number);
+    } while (number < 5);
+
 }
 
