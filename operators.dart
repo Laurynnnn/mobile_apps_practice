@@ -1,3 +1,7 @@
+// KANTONO LAURYN LAETICIA
+// 20/U/7779/PS
+// 2000707779
+
 void main()
 {
     // operators
